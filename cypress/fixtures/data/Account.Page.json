@@ -1,0 +1,24 @@
+{
+
+"LoginButton": {
+    "On": "Log in",
+    "Off": "Hello"
+},
+"username":{
+    "input": "[tabindex='1']",
+    "data":{
+        "valid" : "Saitest",
+        "invalid": ""
+    }
+},
+"password":{
+    "input": "[tabindex='2']",
+    "data": {
+        "valid": "upex123456",
+        "invalid": ""
+    }
+},
+"SubmitButton":"[tabindex='3']",
+"isSignedIn":"Hello"
+
+}
